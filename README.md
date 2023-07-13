@@ -1,1 +1,1 @@
-# -Sales-Analysis-Project
+This Analysis help us to know the customers favourite category when it comes to online shopping and especially during the sales.and also helps comapnies to build strategies in order to increase their sells.
